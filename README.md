@@ -41,7 +41,7 @@ Languages : Ukrainian - Native | English - A1
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=angular" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=angular" alt="icon" width="65" height="65" alt="Angular" />
       </a>
       <br>Angular
     </td>
@@ -56,6 +56,10 @@ Languages : Ukrainian - Native | English - A1
 
 <table align="center">
   <tr>
+    <td align="center"  width="96">
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="express" />
+      <br>Express
+    </td>
     <td align="center" width="96">
       <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
       <br>Git
@@ -79,7 +83,7 @@ Languages : Ukrainian - Native | English - A1
       <br>MongoDB
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=photoshop" width="48" height="48" alt="MongoDB" />
+      <img src="https://skillicons.dev/icons?i=photoshop" width="48" height="48" alt="Photoshop" />
       <br>Photoshop
     </td>
     <td align="center" width="96">
