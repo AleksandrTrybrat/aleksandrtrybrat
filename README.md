@@ -7,7 +7,7 @@ Languages : Ukrainian - Native | English - A1
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="www.linkedin.com/in/oleksandr-trybrat-b05131232"><img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&style=for-the-badge" alt="linkedin" title="Linkedin" /></a>
+<a href="https://www.linkedin.com/in/oleksandr-trybrat-b05131232"><img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&style=for-the-badge" alt="linkedin" title="Linkedin" /></a>
 
 <h2 align="left">Tech Stack:</h2>
 
